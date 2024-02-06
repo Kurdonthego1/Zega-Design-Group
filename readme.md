@@ -1,8 +1,8 @@
 ENSE 271 Group A GitHub
 
-## Members
-- [Zana Osman]([url](https://github.com/Kurdonthego1))
-- [Aaron Borja]([url](https://github.com/creationNA))
-- [Ethan Behl]([url](https://github.com/ethos747))
-- [Gursharan Singh Rehal]([url](https://github.com/gurriiee)https://github.com/gurriiee)
+* Members
+<ul><a href = "[https://github.com/Kurdonthego1]">Zana Osman</a></ul>
+<ul><a href = "[https://github.com/creationNA]">Aaron Borja</a></ul>
+<ul><a href = "[https://github.com/ethos747]">Ethan Behl</a></ul>
+<ul><a href = "[https://github.com/gurriiee]">Gursharan Singh Rehal</a></ul>
 - Jeremy Morton
