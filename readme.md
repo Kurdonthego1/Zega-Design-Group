@@ -14,5 +14,6 @@ The problem we plan to tackle is creating a website that maps the SDG to local p
 
 ## Intended Audience
 _NorthStar (target) customer_: Decision Makers (Government), NVSSN, DFG-SK
+
 _Carryover customers_: General Public, Businesses, Outer Residents, Engineers, Researchers, Donors, Investors
 
