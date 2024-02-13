@@ -11,5 +11,3 @@ The problem we plan to tackle is creating a website that maps the SDG to local p
 [Ethan Behl](https://github.com/ethos747)
 
 [Gursharan Singh Rehal](https://github.com/gurriiee)
-
-- Jeremy Morton
