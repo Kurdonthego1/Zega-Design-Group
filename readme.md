@@ -18,14 +18,14 @@ _NorthStar (target) customer_:
 - NVSSN
 - DFG-SK
 
-_Carryover customers_: 
-- General Public
-- Businesses
-- Outer Residents
-- Engineers
-- Researchers
-- Donors
-- Investors
+### _Carryover customers_: 
+### - General Public
+### - Businesses
+### - Outer Residents
+### - Engineers
+### - Researchers
+### - Donors
+### - Investors
 
 ## Assumptions
 
@@ -34,8 +34,5 @@ _Carryover customers_:
 
 
 ## Resources
-###
-- First Checkpoint
-    - Empathy Maps: [Map 1](https://github.com/Kurdonthego1/Zega-Design-Group/blob/b6c5f174e3c03712b0aa347949505c2ebf5be25c/Activity%201/Empathy%20Map%20-%20Aaron%20Borja.pdf) 
-
-###
+### - First Checkpoint
+###    - Empathy Maps: [Map 1](https://github.com/Kurdonthego1/Zega-Design-Group/blob/b6c5f174e3c03712b0aa347949505c2ebf5be25c/Activity%201/Empathy%20Map%20-%20Aaron%20Borja.pdf) 
