@@ -14,25 +14,30 @@ The problem we plan to tackle is creating a website that maps the SDG to local p
 
 ## Intended Audience
 _NorthStar (target) customer_: 
-- Decision Makers (Government)
-- NVSSN
-- DFG-SK
+* Decision Makers (Government)
+* NVSSN
+* DFG-SK
 
-### _Carryover customers_: 
-### - General Public
-### - Businesses
-### - Outer Residents
-### - Engineers
-### - Researchers
-### - Donors
-### - Investors
+_Carryover customers_: 
+* General Public
+* Businesses
+* Outer Residents
+* Engineers
+* Researchers
+* Donors
+* Investors
 
 ## Assumptions
-
+*
+*
 
 ## Constraints
-
+*
+*
 
 ## Resources
-### - First Checkpoint
-###    - Empathy Maps: [Map 1](https://github.com/Kurdonthego1/Zega-Design-Group/blob/b6c5f174e3c03712b0aa347949505c2ebf5be25c/Activity%201/Empathy%20Map%20-%20Aaron%20Borja.pdf) 
+* First Checkpoint
+* Empathy Maps: [Map 1](https://github.com/Kurdonthego1/Zega-Design-Group/blob/b6c5f174e3c03712b0aa347949505c2ebf5be25c/Activity%201/Empathy%20Map%20-%20Aaron%20Borja.pdf) [Map 2](https://github.com/Kurdonthego1/Zega-Design-Group/blob/main/Activity%201/Empathy%20Map%20-%20Ethan%20Behl.pdf) [Map 3](https://github.com/Kurdonthego1/Zega-Design-Group/blob/main/Activity%201/Empathy%20Map%20-%20Gursharan.jpg) [Map 4](https://github.com/Kurdonthego1/Zega-Design-Group/blob/main/Activity%201/Empathy%20Map%20-%20Zana.pdf)
+* Affinity: [Diagram](https://github.com/Kurdonthego1/Zega-Design-Group/blob/main/Activity%201/Affinity%20Diagram.pdf)
+* Insights: [Insight Charts](https://github.com/Kurdonthego1/Zega-Design-Group/blob/main/Activity%201/Needs%20and%20Insight%20Chart.pdf)
+* [USM]()
