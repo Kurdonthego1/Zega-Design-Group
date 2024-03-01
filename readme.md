@@ -1,4 +1,4 @@
-<h1> ENSE 271 Zega Design Group GitHub </h1>
+<h1 align = 'center'> Zega Design Group - Regina SDG </h1>
 
 <h2> Contributors </h2>
 <h3>
@@ -57,13 +57,25 @@ The problem we plan to tackle is creating a website that maps the SDG to local p
 <h3>
 
 * First Checkpoint
-    * Empathy Maps: [Map 1](https://github.com/Kurdonthego1/Zega-Design-Group/blob/b6c5f174e3c03712b0aa347949505c2ebf5be25c/Activity%201/Empathy%20Map%20-%20Aaron%20Borja.pdf) [Map 2](https://github.com/Kurdonthego1/Zega-Design-Group/blob/main/Activity%201/Empathy%20Map%20-%20Ethan%20Behl.pdf) [Map 3](https://github.com/Kurdonthego1/Zega-Design-Group/blob/main/Activity%201/Empathy%20Map%20-%20Gursharan.pdf) [Map 4](https://github.com/Kurdonthego1/Zega-Design-Group/blob/main/Activity%201/Empathy%20Map%20-%20Zana.pdf)
-    * Affinity: [Diagram](https://github.com/Kurdonthego1/Zega-Design-Group/blob/main/Activity%201/Affinity%20Diagram.pdf)
-    * Insights: [Insight Charts](https://github.com/Kurdonthego1/Zega-Design-Group/blob/main/Activity%201/Needs%20and%20Insight%20Chart.pdf)
-    * User Story Map: [USM](https://github.com/Kurdonthego1/Zega-Design-Group/blob/main/Activity%201/User%20Story%20Map.pdf)
+    * Empathy Maps: <a href = "https://github.com/Kurdonthego1/Zega-Design-Group/blob/main/Diagrams/Empathy%20Maps/Empathy%20Map%20-%20Aaron%20Borja.pdf">Map 1</a> &rsaquo; <a href = "https://github.com/Kurdonthego1/Zega-Design-Group/blob/main/Diagrams/Empathy%20Maps/Empathy%20Map%20-%20Ethan%20Behl.pdf">Map 2</a> &rsaquo; <a href = "https://github.com/Kurdonthego1/Zega-Design-Group/blob/main/Diagrams/Empathy%20Maps/Empathy%20Map%20-%20Gursharan.pdf">Map 3</a> &rsaquo; <a href = "ttps://github.com/Kurdonthego1/Zega-Design-Group/blob/main/Diagrams/Empathy%20Maps/Empathy%20Map%20-%20Zana.pdf">Map 4</a>
+    * Affinity: <a href = "https://github.com/Kurdonthego1/Zega-Design-Group/blob/main/Diagrams/Affinity%20Diagram.pdf">Diagram</a>
+    * Insight Needs:  <a href = "https://github.com/Kurdonthego1/Zega-Design-Group/blob/main/Diagrams/Needs%20and%20Insight%20Chart.pdf">Chart</a>
+    * <a href = "https://github.com/Kurdonthego1/Zega-Design-Group/blob/main/Documents/Customer%20Feedback/Summarized%20Customer%20Notes%20-%20Activity%201.pdf">Feedback</a>
+    * <a href = "https://github.com/Kurdonthego1/Zega-Design-Group/blob/main/Diagrams/User%20Story%20Maps/User%20Story%20Map%20-%20Activity%201.pdf">Project Document</a> 
+    * <a href = "https://github.com/Kurdonthego1/Zega-Design-Group/blob/main/Documents/Customer%20Feedback/Summarized%20Customer%20Notes%20-%20Activity%201.pdf">Feedback</a>
 
 * Second Checkpoint
-    * Lo-Fi Prototypes: [Prototype 1](https://github.com/Kurdonthego1/Zega-Design-Group/blob/main/Activity%202/Lo-Fi%20Prototpye%20-%20Ethan.pdf) [Prototype 2]() [Prototype 3]() [Prototype 4]()
-    * User Story Map V2: [USM]()
-    * 
+    * Low Fidelity Prototypes: <a href = "https://github.com/Kurdonthego1/Zega-Design-Group/blob/main/Activity%202/Lo-Fi%20Prototpye%20-%20Ethan.pdf">Prototype 1</a> &rsaquo; <a href = "">Prototype 2</a> &rsaquo; <a href = "">Prototype 3</a> &rsaquo; <a href = "">Prototype 4</a> 
+    * Sitemaps: <a href = "https://github.com/Kurdonthego1/Zega-Design-Group/blob/main/Diagrams/Site%20Maps/Sitemap%20-%20Aaron.pdf">Map 1</a> &rsaquo; <a href = "https://github.com/Kurdonthego1/Zega-Design-Group/blob/main/Diagrams/Site%20Maps/Sitemap%20-%20Ethan.pdf">Map 2</a> &rsaquo; <a href = "https://github.com/Kurdonthego1/Zega-Design-Group/blob/main/Diagrams/Site%20Maps/Sitemap%20-%20Gursharan.pdf">Map 3</a> &rsaquo; <a href = "[ttps://github.com/Kurdonthego1/Zega-Design-Group/blob/main/Diagrams/Empathy%20Maps/Empathy%20Map%20-%20Zana.pdf](https://github.com/Kurdonthego1/Zega-Design-Group/blob/main/Diagrams/Site%20Maps/Sitemap%20-%20Zana.pdf)">Map 4</a> 
+    * <a href = "https://github.com/Kurdonthego1/Zega-Design-Group/blob/main/Documents/Discussed%20Design%20Ideas/Discussed%20Design%20Ideas-2.pdf">Discussed Design Ideas Lo-Fi</a>
+    * <a href = "https://github.com/Kurdonthego1/Zega-Design-Group/blob/main/Diagrams/User%20Story%20Maps/User%20Story%20Map%20-%20Activity%202.pdf">User Story Map V2</a>
+    * <a href = "https://github.com/Kurdonthego1/Zega-Design-Group/blob/main/Documents/Customer%20Feedback/Summarized%20Customer%20Notes%20-%20Activity%202.pdf">Feedback</a>
+
+* Third Checkpoint
+    * <a href = "https://www.figma.com/proto/whJaxjhurs0XqiJLWzCMfn/Hi-Fi?type=design&node-id=74-146&t=b5hkUZ3g8jektG2Y-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=117%3A46&mode=design">High Fidelity Prototype</a>
+    * <a href = "https://www.figma.com/proto/whJaxjhurs0XqiJLWzCMfn/Hi-Fi?type=design&node-id=74-146&t=b5hkUZ3g8jektG2Y-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=117%3A46&mode=design">High Fidelity Prototype Figma File</a>
+    * <a href = "">Discussed Design Ideas Hi-Fi</a>
+    * <a href = "">User Story Map V3</a>
+    * <a href = "">Questionaire</a>
+    * <a href = "">Feedback</a>
 </h3>
