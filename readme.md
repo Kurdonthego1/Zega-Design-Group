@@ -61,7 +61,7 @@ The problem we plan to tackle is creating a website that maps the SDG to local p
     * Affinity: <a href = "https://github.com/Kurdonthego1/Zega-Design-Group/blob/main/Diagrams/Affinity%20Diagram.pdf">Diagram</a>
     * Insight Needs:  <a href = "https://github.com/Kurdonthego1/Zega-Design-Group/blob/main/Diagrams/Needs%20and%20Insight%20Chart.pdf">Chart</a>
     * <a href = "https://github.com/Kurdonthego1/Zega-Design-Group/blob/main/Documents/Project%20Brainstorm%20Document.pdf">Project Document</a> 
-    * <a href = "https://github.com/Kurdonthego1/Zega-Design-Group/blob/main/Diagrams/User%20Story%20Maps/User%20Story%20Map%20-%20V2.pdf">User Story Map V1</a>
+    * <a href = "https://github.com/Kurdonthego1/Zega-Design-Group/blob/main/Diagrams/User%20Story%20Maps/User%20Story%20Map%20-%20V1.pdf">User Story Map V1</a>
     * <a href = "https://github.com/Kurdonthego1/Zega-Design-Group/blob/main/Documents/Customer%20Feedback/Summarized%20Customer%20Notes%20-%20Activity%201.pdf">Feedback</a>
 
 * Second Checkpoint
@@ -83,7 +83,7 @@ The problem we plan to tackle is creating a website that maps the SDG to local p
     * <a href = "https://github.com/Kurdonthego1/Zega-Design-Group/blob/main/Documents/Project%20Status%20Report/Project%20Status%20Report.pdf">Project Status Report</a>
     * <a href = "https://zega-design-group.softsys.ca/">WordPress Site</a>
     * <a href = "https://github.com/Kurdonthego1/Zega-Design-Group/blob/main/Documents/Discussed%20Design%20Ideas/Discussed%20Design%20Ideas%20Website%20Prototype.pdf">Discussed Design Ideas Website</a>
-    * <a href = " ">User Story Map V4</a>
+    * <a href = "https://github.com/Kurdonthego1/Zega-Design-Group/blob/main/Diagrams/User%20Story%20Maps/User%20Story%20Map%20-%20V4.pdf">User Story Map V4</a>
     * <a href = "https://github.com/Kurdonthego1/Zega-Design-Group/blob/main/Documents/Customer%20Feedback/Summarized%20Customer%20Notes%20-%20Activity%203.5.pdf">Feedback</a>
 
 </h3>
