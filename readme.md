@@ -87,9 +87,9 @@ The problem we plan to tackle is creating a website that maps the SDG to local p
     * <a href = "https://github.com/Kurdonthego1/Zega-Design-Group/blob/main/Documents/Customer%20Feedback/Summarized%20Customer%20Notes%20-%20Activity%203.5.pdf">Feedback</a>
 
 * Fourth Checkpoint
-    * <a href = "">Final Project Report and Lesson Learnt</a>
-    * <a href = "">Final Project Slides</a>
-    * <a href = "">User Story Map V4</a>
-    * <a href = "">Feedback</a>
+    * <a href = "https://github.com/Kurdonthego1/Zega-Design-Group/blob/main/Documents/Project%20Documents/Project%20Report-Out%20and%20Lessons%20Learned.pdf">Final Project Report and Lesson Learnt</a>
+    * <a href = "https://github.com/Kurdonthego1/Zega-Design-Group/blob/main/Diagrams/ENSE%20271%20Website%20Showcase%20-%20Slides.pdf">Final Project Slides</a>
+    * <a href = "https://github.com/Kurdonthego1/Zega-Design-Group/blob/main/Diagrams/User%20Story%20Maps/User%20Story%20Map%20-%20V4.pdf">User Story Map V4</a>
+    * <a href = "https://github.com/Kurdonthego1/Zega-Design-Group/blob/main/Documents/Discussed%20Design%20Ideas/Discussed%20Design%20Ideas%20Website%20Prototype.pdf">Feedback</a>
 
 </h3>
